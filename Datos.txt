@@ -1,0 +1,6 @@
+Nombre = Julen
+Apellido = Aizpitarte
+Edad = 23
+
+Ciudad = Azpeitia
+CP = 20730
