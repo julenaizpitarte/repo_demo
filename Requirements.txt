@@ -1,1 +1,2 @@
-Aqui se listan las librerias 
+Aqui se listan las librerias:
+import numpy as np
