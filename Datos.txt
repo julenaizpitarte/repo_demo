@@ -2,5 +2,5 @@ Nombre = Julen
 Apellido = Aizpitarte Olea
 Edad = 23
 
-Ciudad = Azpeitia
+Ciudad = Azpeitia, Gipuzkoa
 CP = 20730
